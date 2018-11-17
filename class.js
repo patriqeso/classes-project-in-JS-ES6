@@ -21,7 +21,6 @@ class FamilyMember {
     }
 
     get surname() {
-        surname('duchovic');
         return this._surname;
     }
 
